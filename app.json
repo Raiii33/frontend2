@@ -5,22 +5,22 @@
   "env": {
     "REACT_APP_BACKEND": {
       "description": "Backend server url",
-      "value": "https://yourappname.herokuapp.com",
+      "value": "https://anime-mania-backend.herokuapp.com",
       "required": true
     },
     "REACT_APP_TMDB": {
       "description": "TMDB API KEY VALUE",
-      "value": "",
+      "value": "b6271d284fecd5ef03f4d21220099831",
       "required": true
     },
     "REACT_APP_AUTH0_DOMAIN": {
       "description": "AUTH0 DOMAIN URL eg. xyz.us.auth0.com (must be without https:// & no end /)",
-      "value": "",
+      "value": "techboyn.us.auth0.com",
       "required": true
     },
     "REACT_APP_AUTH0_CLIENT_ID": {
       "description": "AUTH0 CLIENT_ID VALUE",
-      "value": "",
+      "value": "iAjiiX8xvo2UIbWHVjA14Ntmfzr2RfNn",
       "required": true
     }
   },
