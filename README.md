@@ -19,4 +19,4 @@ REACT_APP_AUTH0_CLIENT_ID= <br>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Jo05JB)
 
-[![Deploy on Heroku](https://herokucdn.com/button.svg)](https://herokuapp.com/deploy)
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
