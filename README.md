@@ -17,6 +17,8 @@ REACT_APP_TMDB= <br>
 REACT_APP_AUTH0_DOMAIN= <br>
 REACT_APP_AUTH0_CLIENT_ID= <br>
 
+###Deployment
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Jo05JB)
 
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
