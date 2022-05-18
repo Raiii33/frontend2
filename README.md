@@ -23,6 +23,4 @@ REACT_APP_AUTH0_CLIENT_ID= <br>
 
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/TechBoyn/Frontend)
-
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/TechBoyn/Frontend)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/TechBoyn/Frontend&env=CI,REACT_APP_BACKEND,REACT_APP_TMDB,REACT_APP_AUTH0_DOMAIN,REACT_APP_AUTH0_CLIENT_ID)
